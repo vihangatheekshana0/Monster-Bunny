@@ -1,10 +1,10 @@
-<h1 align="left">🪄Hey i'm MonsterBunny</h1>
+<h1 align="center">🪄Hey i'm MonsterBunny</h1>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Repository Title: MonsterBunny's Code Den 🐰💻</h4>
+<h4 align="center">Repository Title: MonsterBunny's Code Den 🐰💻</h4>
 
 ###
 
@@ -59,14 +59,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/MonsterBunny">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=MonsterBunny&count=10" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
   <a href="https://discord.com/invite/retJw8QV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
